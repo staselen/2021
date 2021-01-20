@@ -1,0 +1,14 @@
+C:\Users\mads4\source\repos\MiningAddict\bin\Debug\MiningAddict.exe.config
+C:\Users\mads4\source\repos\MiningAddict\bin\Debug\MiningAddict.exe
+C:\Users\mads4\source\repos\MiningAddict\bin\Debug\MiningAddict.pdb
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MainWindow.g.cs
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\App.g.cs
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict_MarkupCompile.cache
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict_MarkupCompile.lref
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MainWindow.baml
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict.g.resources
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict.Properties.Resources.resources
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict.csproj.GenerateResource.cache
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict.exe
+C:\Users\mads4\source\repos\MiningAddict\obj\Debug\MiningAddict.pdb
