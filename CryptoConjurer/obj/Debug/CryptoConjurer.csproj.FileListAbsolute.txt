@@ -1,0 +1,16 @@
+C:\Users\mads4\source\repos\CryptoConjurer\bin\Debug\CryptoConjurer.exe.config
+C:\Users\mads4\source\repos\CryptoConjurer\bin\Debug\CryptoConjurer.exe
+C:\Users\mads4\source\repos\CryptoConjurer\bin\Debug\CryptoConjurer.pdb
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\MainWindow.g.cs
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\App.g.cs
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer_MarkupCompile.cache
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer_MarkupCompile.lref
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\MainWindow.baml
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.g.resources
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.Properties.Resources.resources
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.csproj.GenerateResource.cache
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.csproj.CoreCompileInputs.cache
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.exe
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer.pdb
+C:\Users\mads4\source\repos\CryptoConjurer\obj\Debug\CryptoConjurer_Content.g.cs
