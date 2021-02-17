@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62D9884F-F3BF-4C14-9F9E-AC52BC98253F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RPGTEST</RootNamespace>
+    <AssemblyName>RPGTEST</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cds\cd0.png" />
+    <Resource Include="cds\cd1.png" />
+    <Resource Include="cds\cd2.png" />
+    <Resource Include="cds\cd3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="nodes\Ethereum.png" />
+    <Resource Include="nodes\nodeBlue.png" />
+    <Resource Include="nodes\nodeDark.png" />
+    <Resource Include="nodes\nodeGreen.png" />
+    <Resource Include="nodes\nodeInvert.png" />
+    <Resource Include="nodes\nodePink.png" />
+    <Resource Include="nodes\nodeRed.png" />
+    <Resource Include="nodes\nodeSpecial.png" />
+    <Resource Include="nodes\nodeYellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="abilities\ability1.jpg" />
+    <Resource Include="abilities\ability2.jpg" />
+    <Resource Include="abilities\ability3.jpg" />
+    <Resource Include="abilities\ability4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cds\cd10.png" />
+    <Resource Include="cds\cd4.png" />
+    <Resource Include="cds\cd5.png" />
+    <Resource Include="cds\cd6.png" />
+    <Resource Include="cds\cd7.png" />
+    <Resource Include="cds\cd8.png" />
+    <Resource Include="cds\cd9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cds\cd100.png" />
+    <Resource Include="cds\cd101.png" />
+    <Resource Include="cds\cd102.png" />
+    <Resource Include="cds\cd103.png" />
+    <Resource Include="cds\cd104.png" />
+    <Resource Include="cds\cd11.png" />
+    <Resource Include="cds\cd12.png" />
+    <Resource Include="cds\cd13.png" />
+    <Resource Include="cds\cd14.png" />
+    <Resource Include="cds\cd15.png" />
+    <Resource Include="cds\cd16.png" />
+    <Resource Include="cds\cd17.png" />
+    <Resource Include="cds\cd18.png" />
+    <Resource Include="cds\cd19.png" />
+    <Resource Include="cds\cd20.png" />
+    <Resource Include="cds\cd21.png" />
+    <Resource Include="cds\cd22.png" />
+    <Resource Include="cds\cd23.png" />
+    <Resource Include="cds\cd24.png" />
+    <Resource Include="cds\cd25.png" />
+    <Resource Include="cds\cd26.png" />
+    <Resource Include="cds\cd27.png" />
+    <Resource Include="cds\cd28.png" />
+    <Resource Include="cds\cd29.png" />
+    <Resource Include="cds\cd30.png" />
+    <Resource Include="cds\cd31.png" />
+    <Resource Include="cds\cd32.png" />
+    <Resource Include="cds\cd33.png" />
+    <Resource Include="cds\cd34.png" />
+    <Resource Include="cds\cd35.png" />
+    <Resource Include="cds\cd36.png" />
+    <Resource Include="cds\cd37.png" />
+    <Resource Include="cds\cd38.png" />
+    <Resource Include="cds\cd39.png" />
+    <Resource Include="cds\cd40.png" />
+    <Resource Include="cds\cd41.png" />
+    <Resource Include="cds\cd42.png" />
+    <Resource Include="cds\cd43.png" />
+    <Resource Include="cds\cd44.png" />
+    <Resource Include="cds\cd45.png" />
+    <Resource Include="cds\cd46.png" />
+    <Resource Include="cds\cd47.png" />
+    <Resource Include="cds\cd48.png" />
+    <Resource Include="cds\cd49.png" />
+    <Resource Include="cds\cd50.png" />
+    <Resource Include="cds\cd51.png" />
+    <Resource Include="cds\cd52.png" />
+    <Resource Include="cds\cd53.png" />
+    <Resource Include="cds\cd54.png" />
+    <Resource Include="cds\cd55.png" />
+    <Resource Include="cds\cd56.png" />
+    <Resource Include="cds\cd57.png" />
+    <Resource Include="cds\cd58.png" />
+    <Resource Include="cds\cd59.png" />
+    <Resource Include="cds\cd60.png" />
+    <Resource Include="cds\cd61.png" />
+    <Resource Include="cds\cd62.png" />
+    <Resource Include="cds\cd63.png" />
+    <Resource Include="cds\cd64.png" />
+    <Resource Include="cds\cd65.png" />
+    <Resource Include="cds\cd66.png" />
+    <Resource Include="cds\cd67.png" />
+    <Resource Include="cds\cd68.png" />
+    <Resource Include="cds\cd69.png" />
+    <Resource Include="cds\cd70.png" />
+    <Resource Include="cds\cd71.png" />
+    <Resource Include="cds\cd72.png" />
+    <Resource Include="cds\cd73.png" />
+    <Resource Include="cds\cd74.png" />
+    <Resource Include="cds\cd75.png" />
+    <Resource Include="cds\cd76.png" />
+    <Resource Include="cds\cd77.png" />
+    <Resource Include="cds\cd78.png" />
+    <Resource Include="cds\cd79.png" />
+    <Resource Include="cds\cd80.png" />
+    <Resource Include="cds\cd81.png" />
+    <Resource Include="cds\cd82.png" />
+    <Resource Include="cds\cd83.png" />
+    <Resource Include="cds\cd84.png" />
+    <Resource Include="cds\cd85.png" />
+    <Resource Include="cds\cd86.png" />
+    <Resource Include="cds\cd87.png" />
+    <Resource Include="cds\cd88.png" />
+    <Resource Include="cds\cd89.png" />
+    <Resource Include="cds\cd90.png" />
+    <Resource Include="cds\cd91.png" />
+    <Resource Include="cds\cd92.png" />
+    <Resource Include="cds\cd93.png" />
+    <Resource Include="cds\cd94.png" />
+    <Resource Include="cds\cd95.png" />
+    <Resource Include="cds\cd96.png" />
+    <Resource Include="cds\cd97.png" />
+    <Resource Include="cds\cd98.png" />
+    <Resource Include="cds\cd99.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cds\cd105.png" />
+    <Resource Include="cds\cd106.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
