@@ -1,0 +1,16 @@
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\BasicTrådProgrammering1.exe
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\BasicTrådProgrammering1.deps.json
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\BasicTrådProgrammering1.runtimeconfig.json
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\BasicTrådProgrammering1.runtimeconfig.dev.json
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\BasicTrådProgrammering1.dll
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\ref\BasicTrådProgrammering1.dll
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\bin\Debug\net5.0\BasicTrådProgrammering1.pdb
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.AssemblyInfoInputs.cache
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.AssemblyInfo.cs
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.csproj.CoreCompileInputs.cache
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.dll
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\ref\BasicTrådProgrammering1.dll
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.pdb
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.genruntimeconfig.cache
+C:\Users\mads4\source\repos\BasicTrådProgrammering1\BasicTrådProgrammering1\obj\Debug\net5.0\BasicTrådProgrammering1.csprojAssemblyReference.cache
