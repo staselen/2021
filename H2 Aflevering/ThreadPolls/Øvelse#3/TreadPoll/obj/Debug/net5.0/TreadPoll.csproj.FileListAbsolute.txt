@@ -1,0 +1,16 @@
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\TreadPoll.exe
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\TreadPoll.deps.json
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\TreadPoll.runtimeconfig.json
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\TreadPoll.runtimeconfig.dev.json
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\TreadPoll.dll
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\ref\TreadPoll.dll
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\bin\Debug\net5.0\TreadPoll.pdb
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.AssemblyInfoInputs.cache
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.AssemblyInfo.cs
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.csproj.CoreCompileInputs.cache
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.dll
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\ref\TreadPoll.dll
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.pdb
+C:\Users\mads4\source\repos\TreadPoll\TreadPoll\obj\Debug\net5.0\TreadPoll.genruntimeconfig.cache
