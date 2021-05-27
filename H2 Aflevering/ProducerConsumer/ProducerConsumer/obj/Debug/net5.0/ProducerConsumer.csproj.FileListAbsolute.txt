@@ -1,0 +1,16 @@
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.exe
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.deps.json
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.runtimeconfig.json
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.runtimeconfig.dev.json
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.dll
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ref\ProducerConsumer.dll
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\net5.0\ProducerConsumer.pdb
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.AssemblyInfo.cs
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.dll
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ref\ProducerConsumer.dll
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.pdb
+C:\Users\mads4\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\net5.0\ProducerConsumer.genruntimeconfig.cache
