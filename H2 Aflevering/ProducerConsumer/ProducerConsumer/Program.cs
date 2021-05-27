@@ -10,8 +10,10 @@ namespace ProducerConsumer
 
         static void Main(string[] args)
         {
+            //Create object reference to Producer and Consumer objects
             Consumer consumer = new Consumer();
             Producer producer = new Producer();
+            //Create shared buffer, producer fills it up and consumer empties it.
             Queue<Product> buffer = new Queue<Product>();
 
             //Creates and start the producer and consumer threads.
