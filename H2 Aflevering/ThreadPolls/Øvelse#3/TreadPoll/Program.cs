@@ -26,16 +26,6 @@ class ThreadPoolDemo
 
         Console.ReadKey();
     }
-    static void Procces2(object obj)
-    {
-        while (true)
-        {
-            for (int i = 0; i < 10; i++)
-            {
-
-            }
-        }
-    }
 
     static void ThreadStatus(object obj)
     {
