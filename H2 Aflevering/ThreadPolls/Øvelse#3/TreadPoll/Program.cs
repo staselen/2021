@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 using System.Diagnostics;
 class ThreadPoolDemo
@@ -10,24 +10,21 @@ class ThreadPoolDemo
             ThreadPool.QueueUserWorkItem(ThreadStatus);
         }
 
-        Thread thread1 = new Thread(Procces);
-
+        Thread thread1 = new Thread(ThreadStatus);
+        Thread thread2 = new Thread(ThreadStatus);
         thread1.Start();
+        thread2.Start();
 
-        Thread.Sleep(1000);
+        //Waits for thread1 and thread2 to finish before main continue
+        thread1.Join();
+        thread2.Join();
 
-        Console.WriteLine(thread2.ThreadState); 
+        Console.WriteLine("Thread "+thread1.ManagedThreadId+": "+thread1.ThreadState);
+        Console.WriteLine("Thread "+thread2.ManagedThreadId+": "+thread2.ThreadState);
 
         //Suspend, Resume, Abort is no longer supported...
 
         Console.ReadKey();
-    }
-    static Thread thread2 = new Thread(Procces2);
-    static void Procces(object obj)
-    {
-        thread2.Start();
-        
-        thread2.Join();
     }
     static void Procces2(object obj)
     {
