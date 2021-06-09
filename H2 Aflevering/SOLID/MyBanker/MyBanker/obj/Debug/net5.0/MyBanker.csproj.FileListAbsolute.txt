@@ -1,0 +1,16 @@
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\MyBanker.exe
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\MyBanker.deps.json
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\MyBanker.runtimeconfig.json
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\MyBanker.runtimeconfig.dev.json
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\MyBanker.dll
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\ref\MyBanker.dll
+C:\Users\mads4\source\repos\MyBanker\MyBanker\bin\Debug\net5.0\MyBanker.pdb
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.csprojAssemblyReference.cache
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.AssemblyInfoInputs.cache
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.AssemblyInfo.cs
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.csproj.CoreCompileInputs.cache
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.dll
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\ref\MyBanker.dll
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.pdb
+C:\Users\mads4\source\repos\MyBanker\MyBanker\obj\Debug\net5.0\MyBanker.genruntimeconfig.cache
