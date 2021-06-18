@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Automatic.png" />
+    <None Remove="belt.png" />
+    <None Remove="BottleForm.png" />
+    <None Remove="consumer.png" />
+    <None Remove="ConveyorBelt.png" />
+    <None Remove="Images\BeerBottle.png" />
+    <None Remove="Images\SB.png" />
+    <None Remove="Images\SodaBottle.png" />
+    <None Remove="SpeedUp.png" />
+    <None Remove="Splitter.png" />
+    <None Remove="Start.png" />
+    <None Remove="Stop.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Automatic.png" />
+    <Resource Include="Images\BottleForm.png" />
+    <Resource Include="Images\consumer.png" />
+    <Resource Include="Images\ConveyorBelt.png" />
+    <Resource Include="Images\BeerBottle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\SB.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\SodaBottle.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Splitter.png" />
+    <Resource Include="Images\Start.png" />
+    <Resource Include="Images\Stop.png" />
+    <Resource Include="Images\SpeedUp.png" />
+  </ItemGroup>
+
+</Project>
